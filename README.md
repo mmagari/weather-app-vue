@@ -1,18 +1,29 @@
-# Simple Weather App
+# 🌤️ Simple Weather App
 
-## About
-Simple weather application built with Vue 3 and OpenWeather API.
+## 📌 About
+Simple weather application built with **Vue 3** and **OpenWeather API**.  
+The project allows users to search for a city and display current weather conditions.
 
-## Tech Stack
+---
+
+## 🛠 Tech Stack
 - Vue 3 (Composition API)
-- OpenWeather API
 - Vite
+- OpenWeather API
 - CSS
 
-## Installation
+---
 
+## 🚀 Installation
+
+Clone repository and install dependencies:
+
+```bash
 npm install
 npm run dev
+
+Then open:
+http://localhost:5173
 
 ## What I learned
 - Vue 3 Composition API
